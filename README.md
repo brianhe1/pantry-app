@@ -37,8 +37,8 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## Technologies Used
 
-Firebase - for backend services (database, storage)
-Next.js - for server-side rendering and React framework
-JavaScript - for programming logic
-MUI (Material-UI) - for UI components and design
-CSS - for styling
+- Firebase - for backend services (database, storage)
+- Next.js - for server-side rendering and React framework
+- JavaScript - for programming logic
+- MUI (Material-UI) - for UI components and design
+- CSS - for styling
